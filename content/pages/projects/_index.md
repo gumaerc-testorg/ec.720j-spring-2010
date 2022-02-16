@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 09caf566-8d6e-f72e-9ff3-345ff88b541e
 ---
@@ -44,7 +47,7 @@ Bamboo Pencil Maker
 {{< tdopen >}}
 Process for easy manufacturing of bamboo pencils that are comparable to pencils made from wood.
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="6" >}}
 Compiled descriptions ([PDF]({{< baseurl >}}/resources/mitec_720js10_comp_desc))
 {{< tdclose >}}
 
@@ -107,7 +110,7 @@ Braille Typewriter
 {{< tdopen >}}
 Low-cost Braille typewriter that can be manufactured and distributed among blind and partially sighted individuals
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="9" >}}
 These design challenge descriptions are not available
 {{< tdclose >}}
 

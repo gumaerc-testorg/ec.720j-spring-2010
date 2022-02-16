@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Course Notes
+parent_type: CourseSection
 parent_uid: 10999552-d6e4-9e27-8659-6670d978b383
 title: 'D-Lab: Design hosts Paul Polak and Shawn Frayne'
 uid: 0bc2b42a-1e14-3400-b076-13c1187b35bb

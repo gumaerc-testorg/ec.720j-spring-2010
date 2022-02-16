@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8cf79971-3ec0-7248-49f7-a534d4ade705
 ---
@@ -24,13 +27,13 @@ This table lists the reading assignments by due dates and their associated topic
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 ASSN #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 READING ASSIGNMENTS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="2" >}}
 SES #
 {{< thclose >}}
 

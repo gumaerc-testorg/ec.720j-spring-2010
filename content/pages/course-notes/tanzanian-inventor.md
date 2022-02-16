@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Course Notes
+parent_type: CourseSection
 parent_uid: 10999552-d6e4-9e27-8659-6670d978b383
 title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
 uid: 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501

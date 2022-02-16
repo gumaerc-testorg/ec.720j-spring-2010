@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Course Notes
+parent_type: CourseSection
 parent_uid: 10999552-d6e4-9e27-8659-6670d978b383
 title: 'D-Lab: Design hosts Indian inventor Suprio Das'
 uid: 96960d28-2ad0-954a-f601-954d8c49afc9

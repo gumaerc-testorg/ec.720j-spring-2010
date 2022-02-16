@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 09caf566-8d6e-f72e-9ff3-345ff88b541e
 title: 'Design Packet Phase 1: Information'
 uid: 8bf07c65-c715-c581-74ce-9e7f832e2882

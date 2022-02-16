@@ -1,13 +1,17 @@
 ---
 content_type: resource
 description: 'Suprio lecturing in D-Lab: Design class. Photo courtesy of Nathan Cooke.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-720j-d-lab-ii-design-spring-2010/bd9507b9fecc2d12cf682cb15f8cafdc_fig3.jpg
+file: /media/courses/ec-720j-d-lab-ii-design-spring-2010/bd9507b9fecc2d12cf682cb15f8cafdc_fig3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'Suprio lecturing in D-Lab: Design class.'
   credit: Photos coutesy of Nathan Cooke.
   image-alt: Photo of Suprio Das standing in front of a projected photo of a water
     well.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'D-Lab: Design hosts Indian inventor Suprio Das'
+parent_type: CourseSection
 resourcetype: Image
 title: fig3.jpg
 uid: bd9507b9-fecc-2d12-cf68-2cb15f8cafdc

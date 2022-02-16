@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Course Notes
+parent_type: CourseSection
 parent_uid: 10999552-d6e4-9e27-8659-6670d978b383
 title: 'Design Mini-Project: Low-Cost Rainwater Harvesting'
 uid: 3e6ad560-8ed6-fc34-194f-dcaf86a6f11e

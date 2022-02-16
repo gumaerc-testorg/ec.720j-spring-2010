@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'D-Lab: Design hosts Indian inventor Suprio Das'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Firefly Power: Human Powered Domestic Lighting in Rural India'
 uid: 841e4805-fd7d-d759-f7e2-95eaccd702b6
