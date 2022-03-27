@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7de564ad-e990-22dc-2767-fa0ca78cc00d
 resourcetype: Document
 title: 'Homework: Wheelchairs and Cook Stoves Assessment'
 uid: 31ef0cd4-5324-4150-16f3-3bc63f764da3

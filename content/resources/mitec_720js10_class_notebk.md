@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 10999552-d6e4-9e27-8659-6670d978b383
 resourcetype: Document
 title: Class Notebook
 uid: af6f9625-69b6-b3a9-c9d7-88b5a751a73c

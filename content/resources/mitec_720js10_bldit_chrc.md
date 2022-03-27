@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 10999552-d6e4-9e27-8659-6670d978b383
 resourcetype: Document
 title: Charcoal Press Build-It (with Teaching Notes)
 uid: 449159c2-3d35-52f7-3d7d-59c5808c7f55

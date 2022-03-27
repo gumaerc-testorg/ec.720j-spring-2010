@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 09caf566-8d6e-f72e-9ff3-345ff88b541e
 resourcetype: Document
 title: Design Packet
 uid: 2c6149f5-a276-a531-264f-04657539f064

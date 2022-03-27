@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7de564ad-e990-22dc-2767-fa0ca78cc00d
 resourcetype: Document
 title: Cradle to Cradle - Remaking the Way We Make Things
 uid: 3a5e69f0-c604-224b-e169-9642b38110d0
