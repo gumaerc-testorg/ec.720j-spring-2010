@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section presents descriptions of the homework assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ Write short answers to the following questions and submit them to the class webs
 **Homework 3: Technology Critique**  
 _Due: Session 3_
 
-Technology Critique worksheet ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw3))
+Technology Critique worksheet ({{% resource_link af9dab7c-df14-9584-a0e9-8be651ea268b "PDF" %}})
 
 **{{< anchor "mini_project" >}}{{< /anchor >}}Homeworks 4–7:** **Mini Project – Affordable Rainwater Harvesting System**
 
@@ -78,7 +79,7 @@ Write short answers to the following questions and submit them to the class webs
 **Homework 9: Project Selection**  
 _Due: Session 8_
 
-After the in-class presentations and discussion about the design challenges (Ses #8), fill out and submit the Project Selection form (found in the [Design Challenges]({{< baseurl >}}/pages/projects#Design_Challenges) section of the Projects page.)
+After the in-class presentations and discussion about the design challenges (Ses #8), fill out and submit the Project Selection form (found in the {{% resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Challenges" "#Design_Challenges" %}} section of the Projects page.)
 
 **Homeworks 10, 11, 13: Design Project Phase 1 – Information  
 **
@@ -89,12 +90,12 @@ This set of assignments prepares for and follows through on the Phase 1 Design R
 **Homework 10: Information Gathering**  
 _Due: Ses__sion_ _11_
 
-See description in the [Design Packet, Phase 1]({{< baseurl >}}/pages/projects#Information_Gathering).
+See description in the {{% resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Packet, Phase 1" "#Information_Gathering" %}}.
 
 **Homework 11: Problem Statement and Design Specifications**  
 _Due: Ses__sion_ _11_
 
-See descriptions in the [Design Packet, Phase 1]({{< baseurl >}}/pages/projects#Problem_Statement).
+See descriptions in the {{% resource_link 09caf566-8d6e-f72e-9ff3-345ff88b541e "Design Packet, Phase 1" "#Problem_Statement" %}}.
 
 **Homework 13: Refined Problem Definition and Product Specifications**  
 _Due: Ses__sion_ _12_
@@ -118,7 +119,7 @@ The deliverable is the finished part, due in class. Teams meet after the modules
 **Homework 14: Idea Generation and Concept Evaluation**  
 _Due: Ses__sion_ _13_
 
-See descriptions in the [Design Packet, Phase 2]({{< baseurl >}}/pages/projects/ideas).
+See descriptions in the {{% resource_link 7ec2a491-2680-f360-db84-9406e364960d "Design Packet, Phase 2" %}}.
 
 This is a lot to get done in under a week, so I’d get cracking as soon as you can. Here’s how I’d approach it:
 
@@ -131,7 +132,7 @@ The new Design Notebook has examples for each step of the design process which w
 **Homework 15: Detail Design, Analysis and Experimental Results**  
 _Due: Ses__sion_ _17_
 
-See descriptions in the [Design Packet, Phase 3]({{< baseurl >}}/pages/projects/impl).
+See descriptions in the {{% resource_link 5614b82e-b4c0-f36d-4242-a706bc3047a5 "Design Packet, Phase 3" %}}.
 
 This assignment prepares for the Phase 3 Design Review of detail design, analysis and experimental results. 
 
@@ -140,7 +141,7 @@ _NOTE_: Within one week after that review, each team is required to meet with th
 **Homework 16: Book Group**  
 _Due: Ses__sion_ _23_
 
-The four books that comprise [Reading Assignment]({{< baseurl >}}/pages/readings#For_the_Book) #7 are divided among four groups of students
+The four books that comprise {{% resource_link 8cf79971-3ec0-7248-49f7-a534d4ade705 "Reading Assignment" "#For_the_Book" %}} #7 are divided among four groups of students
 
 *   _Small is Beautiful_: 4 students
 *   _Gaviotas_: 6 students
@@ -154,13 +155,13 @@ This homework assignment consists of both a group deliverable and an individual 
 
 Both deliverables are intentionally short, so grading criteria will specifically include conciseness and synthesis, as well as writing style and quality.  Here are two examples:
 
-*   Slides on _Cradle to Cradle_ ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw16_cradle))
-*   Group writeup on _Gaviotas_ ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw16gaviots))
+*   Slides on _Cradle to Cradle_ ({{% resource_link 3a5e69f0-c604-224b-e169-9642b38110d0 "PDF" %}})
+*   Group writeup on _Gaviotas_ ({{% resource_link 29d74e7c-4098-7b1f-91f0-8f3ba4535780 "PDF" %}})
 
 **Homework 17: Wheelchairs and Cook Stoves Assessment**  
 _Due: Session 17_
 
-Worksheet for Homework 17 ([PDF]({{< baseurl >}}/resources/mitec_720js10_hw17))
+Worksheet for Homework 17 ({{% resource_link 31ef0cd4-5324-4150-16f3-3bc63f764da3 "PDF" %}})
 
 **Homework 18: Design for Usability**  
 _Due: Session 17_

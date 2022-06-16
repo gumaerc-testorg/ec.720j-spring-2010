@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/ec-720j-d-lab-ii-design-spring-2010/f6a25930fb7a79a6163921f1c78ac0a7_fig1.jpg
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/f6a25930fb7a79a6163921f1c78ac0a7_fig1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

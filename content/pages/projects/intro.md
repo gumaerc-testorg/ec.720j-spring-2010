@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page gives an introduction to the design project process and milestones.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

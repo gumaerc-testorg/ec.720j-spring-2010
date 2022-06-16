@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page describes the goals of the class mini-project.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -13,7 +14,7 @@ uid: 3e6ad560-8ed6-fc34-194f-dcaf86a6f11e
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back: [Course Notes]({{< baseurl >}}/pages/course-notes)
+« Back: {{% resource_link 10999552-d6e4-9e27-8659-6670d978b383 "Course Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -24,10 +25,10 @@ This year, we wanted to try something a little different to start out the course
 
 This project has applications in a lot of places, but it's also one of the things that D-Lab might be able to do to help out in Haiti. Food, fuel and water are some of the immediate needs, and the rainy season is about to start. So I'm really excited to be working on it, and I think the students are too…
 
-![fig1.jpg]({{< resource_file 6d3278d5-b706-4cf1-63b9-c740dc6d0c4c >}})
+{{< resource 6d3278d5-b706-4cf1-63b9-c740dc6d0c4c >}}
 
 Students brainstorming in class.
 
-![fig2.jpg]({{< resource_file 29dd1fb0-95d4-066d-7fa7-8f9f7c72710b >}})
+{{< resource 29dd1fb0-95d4-066d-7fa7-8f9f7c72710b >}}
 
 Amy exploring new ideas with a team of students.

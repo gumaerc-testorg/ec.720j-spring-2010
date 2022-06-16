@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page describes the specific design milestones, assignments and
+  objectives that comprise Phase 3: Implementation.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

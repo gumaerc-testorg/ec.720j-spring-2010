@@ -2,7 +2,7 @@
 content_type: resource
 description: Closeup of Bernard Kiwia's bicycle-powered water pump. Photo courtesy
   of Bernard Kiwia.
-file: /media/courses/ec-720j-d-lab-ii-design-spring-2010/3794b0017caf5903261f027d224b1333_fig1b.jpg
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/3794b0017caf5903261f027d224b1333_fig1b.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Closeup of Bernard Kiwia's bicycle-powered water pump.
@@ -18,3 +18,5 @@ resourcetype: Image
 title: fig1b.jpg
 uid: 3794b001-7caf-5903-261f-027d224b1333
 ---
+Closeup of Bernard Kiwia's bicycle-powered water pump. Photo courtesy of Bernard Kiwia.
+

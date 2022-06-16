@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a complete set of course notes, information on
+  the topics covered in each session, and other resources.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: 10999552-d6e4-9e27-8659-6670d978b383
 
 D-Lab's Nathan Cooke took notes during most class sessions.  These notes are provided in a single file, and the pages about each class session are referenced in the following table.
 
-*   Complete class notes ([PDF - 5.2MB]({{< baseurl >}}/resources/mitec_720js10_class_notebk))
+*   Complete class notes ({{% resource_link af6f9625-69b6-b3a9-c9d7-88b5a751a73c "PDF - 5.2MB" %}})
 
 Selected lecture slides and other notes are provided in the Other Resources column.
 
@@ -51,7 +53,7 @@ Introduction: design for development
 pp. 3–4
 {{< tdclose >}}
 {{< tdopen >}}
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 5.0MB]({{< baseurl >}}/resources/mitec_720js10_lec01))
+Slides ({{% resource_link cd705ed1-3dc6-e85b-7e78-6d456896bb42 "PDF - 5.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +77,7 @@ Case studies: Q-drum, LifeStraw, Freeplay radio, solar cookers, treadle pumps, i
 pp. 5–6
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 3.5MB]({{< baseurl >}}/resources/mitec_720js10_lec02))
+Slides ({{% resource_link 0544f53d-0d85-01e7-ea1e-16d5dba634ba "PDF - 3.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +100,7 @@ Introduction to Mini Projects
 pp. 7–9
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 3.8MB]({{< baseurl >}}/resources/mitec_720js10_lec03))
+Slides ({{% resource_link 4eb0375b-0510-c898-8071-071133302de5 "PDF - 3.8MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +149,7 @@ p. 10
 p. 11
 {{< tdclose >}}
 {{< tdopen >}}
-[D-Lab News writeup]({{< baseurl >}}/pages/course-notes/design_miniproj)
+{{% resource_link 3e6ad560-8ed6-fc34-194f-dcaf86a6f11e "D-Lab News writeup" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -236,11 +238,11 @@ Build-It modules
 
 _From_ [_D-Lab Resources_](http://d-lab.mit.edu/resources-publications) _collection:_
 
-Cast Corn Sheller ([PDF - 1.2MB]({{< baseurl >}}/resources/mitec_720js10_bldit_cncst))
+Cast Corn Sheller ({{% resource_link 4974d72f-6e55-f3b8-12da-88af46058e3a "PDF - 1.2MB" %}})
 
-Sheet Metal Corn Sheller ([PDF]({{< baseurl >}}/resources/mitec_720js10_bldit_csm))
+Sheet Metal Corn Sheller ({{% resource_link 1fab1f92-881a-2a0a-a9ee-50b0154a1960 "PDF" %}})
 
-Charcoal Press (with Teaching Notes) ([PDF]({{< baseurl >}}/resources/mitec_720js10_bldit_chrc))
+Charcoal Press (with Teaching Notes) ({{% resource_link 449159c2-3d35-52f7-3d7d-59c5808c7f55 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -311,7 +313,7 @@ pp. 18–19
 {{< tdopen >}}
 
 
-Slides ([PDF - 3.8MB]({{< baseurl >}}/resources/mitec_720js10_lec12))
+Slides ({{% resource_link 31bc1da7-c606-61b5-8486-01aa2f9eba07 "PDF - 3.8MB" %}})
 
 
 {{< tdclose >}}
@@ -395,7 +397,7 @@ pp. 23–24
 {{< tdopen >}}
 
 
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mitec_720js10_lec15))
+Slides ({{% resource_link cef8fe1b-2174-970f-b9af-067051b2c407 "PDF - 2.0MB" %}})
 
 
 {{< tdclose >}}
@@ -415,7 +417,7 @@ Guest speakers: Paul Polak & Shawn Frayne
 pp. 25–27
 {{< tdclose >}}
 {{< tdopen >}}
-[D-Lab News writeup]({{< baseurl >}}/pages/course-notes/design-hosts)
+{{% resource_link 0bc2b42a-1e14-3400-b076-13c1187b35bb "D-Lab News writeup" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -513,7 +515,7 @@ Guest speaker: Suprio Das
 pp. 34–35
 {{< tdclose >}}
 {{< tdopen >}}
-[D-Lab News writeup]({{< baseurl >}}/pages/course-notes/indian-inventor)
+{{% resource_link 96960d28-2ad0-954a-f601-954d8c49afc9 "D-Lab News writeup" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -528,7 +530,7 @@ Guest speaker: Bernard Kiwia
 pp. 36–37
 {{< tdclose >}}
 {{< tdopen >}}
-[D-Lab News writeup]({{< baseurl >}}/pages/course-notes/tanzanian-inventor)
+{{% resource_link 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501 "D-Lab News writeup" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -594,7 +596,7 @@ Penultimania
 p. 41
 {{< tdclose >}}
 {{< tdopen >}}
-Slides ([PDF - 3.7MB]({{< baseurl >}}/resources/mitec_720js10_lec26))
+Slides ({{% resource_link 7cefdcc8-ebc8-a427-e1a8-ed5b8e5a89a1 "PDF - 3.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

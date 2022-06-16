@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on course
+  goals, meeting times, prerequisites, textbooks, course logistics, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +41,7 @@ D-Lab courses fall into three main categories: development, design, and dissemin
 
 The mini projects help students gain more familiarity with the creative design process in a short period of time, while getting to know and bond with their classmates by working in teams.
 
-We believe in learning by doing, and mini project teams are encouraged to try going through the entire design cycle for as many iterations as possible. It is incredibly difficult to get very far on a challenge in such a short time, but by the end of the mini project, teams usually have at least learned more about a topic and have built rough prototypes / models. Please see the [mini project assignments]({{< baseurl >}}/pages/assignments) for more information.
+We believe in learning by doing, and mini project teams are encouraged to try going through the entire design cycle for as many iterations as possible. It is incredibly difficult to get very far on a challenge in such a short time, but by the end of the mini project, teams usually have at least learned more about a topic and have built rough prototypes / models. Please see the {{% resource_link 7de564ad-e990-22dc-2767-fa0ca78cc00d "mini project assignments" %}} for more information.
 
 ### Design Challenges
 
@@ -57,7 +59,7 @@ Students increase their level of comfort and confidence with working safely in t
 
 ### Case Studies and Guest Lectures
 
-Instructors and guest speakers offer lectures and case studies on a variety of technologies and how they relate to design in developing countries. Students are then asked to apply the material presented in class to their own design projects. This aspect of the course varies from year to year; see the [calendar]({{< baseurl >}}/pages/calendar) for more information about what was covered this year.
+Instructors and guest speakers offer lectures and case studies on a variety of technologies and how they relate to design in developing countries. Students are then asked to apply the material presented in class to their own design projects. This aspect of the course varies from year to year; see the {{% resource_link 941d511d-f895-24a7-0786-5e0927cb87b9 "calendar" %}} for more information about what was covered this year.
 
 ### Design Review Sessions
 
@@ -74,7 +76,7 @@ Textbooks
 
 The required textbook is Polak, Paul. _Out of Poverty_. Berrett-Koehler Publishers, 2008. ISBN: 9781576754498.
 
-[Readings]({{< baseurl >}}/pages/readings) from a variety of other sources are also assigned throughout the course.
+{{% resource_link 8cf79971-3ec0-7248-49f7-a534d4ade705 "Readings" %}} from a variety of other sources are also assigned throughout the course.
 
 Course Logistics
 ----------------
@@ -93,7 +95,7 @@ There is also a D-Lab library with reference books and videos on many topics in 
 
 Safety is taken very seriously at D-Lab, and all students receive training and agree to the D-Shop rules before working in the shop. While students have the key code for 24-hour access the workshop, they cannot work alone and need to have a staff member present any time they are using unfamiliar equipment.
 
-Shop Rules ([PDF]({{< baseurl >}}/resources/mitec_720js10_syllshop))
+Shop Rules ({{% resource_link cf0cdf42-3957-237f-265f-daf6ec15ce02 "PDF" %}})
 
 ### Attendance and Participation
 

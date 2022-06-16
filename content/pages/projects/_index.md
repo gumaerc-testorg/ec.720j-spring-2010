@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents the class projects, including initial descriptions
+  of design challenges and some sample student work on projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ To select their class projects, students review and vote their interest among a 
 
 Voting happens with the Project Selection Form, which also helps the instructors create teams with an appropriate mix of skills, backgrounds and interests.
 
-*   Project Selection Form ([PDF]({{< baseurl >}}/resources/mitec_720js10_proj_select))
+*   Project Selection Form ({{% resource_link ae362a9f-5714-fa97-d257-7a4491e38896 "PDF" %}})
 
 The following table lists the six design challenges selected by the Spring 2010 class to become class projects, followed by brief summaries of the other candidates not selected by the class.
 
@@ -48,7 +50,7 @@ Bamboo Pencil Maker
 Process for easy manufacturing of bamboo pencils that are comparable to pencils made from wood.
 {{< tdclose >}}
 {{< tdopen rowspan="6" >}}
-Compiled descriptions ([PDF]({{< baseurl >}}/resources/mitec_720js10_comp_desc))
+Compiled descriptions ({{% resource_link 56062fff-203c-fff9-c2c9-c62fecadd6a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,27 +199,27 @@ Low-cost tools to accurately locate groundwater before labor-intensive manual we
 
 The Design Packet describes the sequence of process steps and milestones to be followed by the design teams. The earlier steps serve as homework assignments, leading into a final phase of prototype fabrication, testing, and evaluation.
 
-Complete Design Packet ([PDF]({{< baseurl >}}/resources/mitec_720js10_design_packt))
+Complete Design Packet ({{% resource_link 2c6149f5-a276-a531-264f-04657539f064 "PDF" %}})
 
 For ease of use and website cross referencing, the Design Packet is also presented in this sequence of four webpages.
 
-*   [Introduction]({{< baseurl >}}/pages/projects/intro)
-*   [Phase 1: Information]({{< baseurl >}}/pages/projects/info)
-*   [Phase 2: Ideas]({{< baseurl >}}/pages/projects/ideas)
-*   [Phase 3: Implementation]({{< baseurl >}}/pages/projects/impl)
+*   {{% resource_link 847d1373-8175-d031-2e33-812b4a075e47 "Introduction" %}}
+*   {{% resource_link 8bf07c65-c715-c581-74ce-9e7f832e2882 "Phase 1: Information" %}}
+*   {{% resource_link 7ec2a491-2680-f360-db84-9406e364960d "Phase 2: Ideas" %}}
+*   {{% resource_link 5614b82e-b4c0-f36d-4242-a706bc3047a5 "Phase 3: Implementation" %}}
 
 Sample Project Results
 ----------------------
 
 These final project reports are presented courtesy of the students and used with permission.
 
-Movilavadora (Portable Bicilavadora) ([PDF - 2.1MB]({{< baseurl >}}/resources/mitec_720js10_projwashfin))
+Movilavadora (Portable Bicilavadora) ({{% resource_link c6819704-fd32-f1ec-c800-2d2de0d0aa47 "PDF - 2.1MB" %}})
 
-Spiral Pine Needle Cookstove ([PDF - 1.7MB]({{< baseurl >}}/resources/mitec_720js10_projstovefin))
+Spiral Pine Needle Cookstove ({{% resource_link 4b70af48-056f-59c6-7f48-5cda9736d93f "PDF - 1.7MB" %}})
 
 **Project Follow-up**
 ---------------------
 
-Project Follow-up Survey ([PDF]({{< baseurl >}}/resources/mitec_720js10_proj_folwup))
+Project Follow-up Survey ({{% resource_link fcb50f11-2938-287c-d63f-c6c1b9546a69 "PDF" %}})
 
 Many D-Lab projects continue through multiple years of testing and refinement. See the [D-Lab website](http://d-lab.mit.edu/) for the latest information on recent projects.[d-lab.mit.edu/](http://d-lab.mit.edu/)

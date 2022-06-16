@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Amy exploring new ideas with a team of students.
-file: /media/courses/ec-720j-d-lab-ii-design-spring-2010/29dd1fb095d4066d7fa78f9f7c72710b_fig2.jpg
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/29dd1fb095d4066d7fa78f9f7c72710b_fig2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Amy exploring new ideas with a team of students.
@@ -16,3 +16,5 @@ resourcetype: Image
 title: fig2.jpg
 uid: 29dd1fb0-95d4-066d-7fa7-8f9f7c72710b
 ---
+Amy exploring new ideas with a team of students.
+
