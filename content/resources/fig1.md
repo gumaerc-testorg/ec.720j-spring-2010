@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Photo of several students sitting around a table working on small paper
     cards.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Design Mini-Project: Low-Cost Rainwater Harvesting'
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: fig1.jpg
 uid: 6d3278d5-b706-4cf1-63b9-c740dc6d0c4c
 ---
 Students brainstorming in class.
-

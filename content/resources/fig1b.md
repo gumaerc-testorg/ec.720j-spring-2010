@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Close-up from prior photo showing water being pumped from a bucket through
     a long hose.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: fig1b.jpg
 uid: 3794b001-7caf-5903-261f-027d224b1333
 ---
 Closeup of Bernard Kiwia's bicycle-powered water pump. Photo courtesy of Bernard Kiwia.
-

@@ -5,6 +5,7 @@ file: /courses/ec-720j-d-lab-ii-design-spring-2010/4eb0375b0510c8988071071133302
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 3: Case studies, Mini-Project introduction'
 uid: 4eb0375b-0510-c898-8071-071133302de5
 ---
 This resource contains information related to case study discussion.
-

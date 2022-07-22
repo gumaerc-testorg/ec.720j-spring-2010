@@ -6,6 +6,7 @@ file: /courses/ec-720j-d-lab-ii-design-spring-2010/cef8fe1b2174970fb9af067051b2c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 15: Design for [X]: usability, affordability, sustainability, re
 uid: cef8fe1b-2174-970f-b9af-067051b2c407
 ---
 This resource contains information related to reuse, failures, affordability, and usability.
-

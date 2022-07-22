@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Shawn Frayne writing in a notebook while some students look on.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'D-Lab: Design hosts Paul Polak and Shawn Frayne'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: fig2.jpg
 uid: 8165fc2c-c629-67a4-0ba6-6d4a953121c9
 ---
 Shawn Frayne assisting students with their design projects.
-

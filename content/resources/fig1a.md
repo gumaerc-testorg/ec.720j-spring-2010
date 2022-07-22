@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Photo of a man riding a bicycle mounted on a stand, with attached pump
     and hose assembly.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'D-Lab: Design hosts Tanzanian inventor Bernard Kiwia'
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: fig1a.jpg
 uid: 0fe75ebe-1aa6-884a-19a5-486a1e9bc18d
 ---
 Bernard Kiwia's bicycle-powered water pump. Photo courtesy of Bernard Kiwia.
-
