@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: 'This page describes the specific design milestones, assignments and
+  objectives that comprise Phase 2: Ideas.'
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 09caf566-8d6e-f72e-9ff3-345ff88b541e
 title: 'Design Packet Phase 2: Ideas'
 uid: 7ec2a491-2680-f360-db84-9406e364960d

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page gives an introduction to the design project process and milestones.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 09caf566-8d6e-f72e-9ff3-345ff88b541e
 title: 'Design Packet: Introduction'
 uid: 847d1373-8175-d031-2e33-812b4a075e47
