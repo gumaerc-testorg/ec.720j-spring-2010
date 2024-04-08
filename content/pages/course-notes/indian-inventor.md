@@ -49,18 +49,18 @@ Suprio lecturing in the D-Lab: Design class. (Photo courtesy of Nathan Cooke.)
 Additional Resources
 --------------------
 
-[Suprio Das "D-Lab Innovators" profile](https://d-lab.mit.edu/news-blog/blog/d-lab-design-hosts-indian-inventor-suprio-das)
+{{% resource_link "0e6385b5-1e7f-4c5c-9e5c-7de8afc866cd" "Suprio Das \"D-Lab Innovators\" profile" %}}
 
-[Zimba water chlorination project](http://www.zimbawater.com/)
+{{% resource_link "a4a1e663-14cf-4fa7-a44b-2ebbc06e4bc4" "Zimba water chlorination project" %}}
 
-"[The Cycle of Light](http://www.mumbaimirror.com/others/sunday-read/The-cycle-of-light/articleshow/15827885.cms)." _MumbaiMirror.com_. July 6, 2008. Accessed June 26, 2012.
+"{{% resource_link "6b145507-dce7-45f3-92d8-179c266074c5" "The Cycle of Light" %}}." _MumbaiMirror.com_. July 6, 2008. Accessed June 26, 2012.
 
-Suprio Das in a panel discussion at Spring 2010 D-Lab Innovators Night. Suprio's talk is from 12:30 to 27:00. (This video is from [MIT TechTV](http://techtv.mit.edu/), and is not covered under our [Creative Commons license](/terms/#cc).)
+Suprio Das in a panel discussion at Spring 2010 D-Lab Innovators Night. Suprio's talk is from 12:30 to 27:00. (This video is from {{% resource_link "e3c53262-82b0-404e-b932-717e39600cf6" "MIT TechTV" %}}, and is not covered under our [Creative Commons license](/terms/#cc).)
 
 {{< resource 393e0d62-b941-eb53-bc72-cdd14faa1efa >}}
 
-Dugwells for Arsenic Safe Drinking Water. (This video is from [YouTube](http://youtube.com), and is not covered under our [Creative Commons license](/terms/#cc).)
+Dugwells for Arsenic Safe Drinking Water. (This video is from {{% resource_link "32cd5599-dbef-4cdb-8bab-47c5fb07497d" "YouTube" %}}, and is not covered under our [Creative Commons license](/terms/#cc).)
 
 {{< resource 841e4805-fd7d-d759-f7e2-95eaccd702b6 >}}
 
-Firefly Power: Human Powered Domestic Lighting in Rural India. (This video is from [YouTube](http://youtube.com), and is not covered under our [Creative Commons license](/terms/#cc).)
+Firefly Power: Human Powered Domestic Lighting in Rural India. (This video is from {{% resource_link "32cd5599-dbef-4cdb-8bab-47c5fb07497d" "YouTube" %}}, and is not covered under our [Creative Commons license](/terms/#cc).)

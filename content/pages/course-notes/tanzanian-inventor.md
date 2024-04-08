@@ -22,7 +22,7 @@ uid: 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501
 
 {{< tableclose >}}
 
-This week has been inventors' week in D-Lab: Design. After Suprio's lecture on Monday, we hosted Bernard Kiwia for Wednesday's class. Bernard is an inventor from Tanzania, who currently leads technology innovation at [Global Cycle Solutions](http://globalcyclesolutions.com/) in his home country. Bernard started as a bicycle mechanic with 3 years of experience when he participated in the first edition of the [International Development Design Summit](https://idin.org/idds) at MIT over the summer of 2007. After connecting there with other craftsmen, technicians and hackers of sorts, he came back home to start _making things_, as he likes to describe his current activities. As part of his lecture, Bernard presented the different inventions he has come up over the years, which include a cell phone charger for bicycles, a wheel truing stand, several daily objects made out of bicycle spare parts (a can opener made from a bike brake, a picture frame made from a front sprocket wheel, chairs made from bike wheel rims, etc), a bicycle-powered water pump, a solar water heater, and a pedal-powered drill press to name a few.
+This week has been inventors' week in D-Lab: Design. After Suprio's lecture on Monday, we hosted Bernard Kiwia for Wednesday's class. Bernard is an inventor from Tanzania, who currently leads technology innovation at {{% resource_link "544c7cf9-eb30-4e5a-9b5f-ea17b6dcba47" "Global Cycle Solutions" %}} in his home country. Bernard started as a bicycle mechanic with 3 years of experience when he participated in the first edition of the {{% resource_link "188f7973-7285-4537-8847-acad9fc5f940" "International Development Design Summit" %}} at MIT over the summer of 2007. After connecting there with other craftsmen, technicians and hackers of sorts, he came back home to start _making things_, as he likes to describe his current activities. As part of his lecture, Bernard presented the different inventions he has come up over the years, which include a cell phone charger for bicycles, a wheel truing stand, several daily objects made out of bicycle spare parts (a can opener made from a bike brake, a picture frame made from a front sprocket wheel, chairs made from bike wheel rims, etc), a bicycle-powered water pump, a solar water heater, and a pedal-powered drill press to name a few.
 
 {{< resource 0fe75ebe-1aa6-884a-19a5-486a1e9bc18d >}}
 
@@ -54,12 +54,12 @@ Some of Bernard's work in Tanzania:
 
 {{< resource 0981fa41-6483-c5f5-8f71-3a5a2fd5cc18 >}}
 
-Pedal-Powered Hacksaw. (This video is from [YouTube](http://youtube.com), and is not covered under our [Creative Commons license](/terms/#cc).)
+Pedal-Powered Hacksaw. (This video is from {{% resource_link "32cd5599-dbef-4cdb-8bab-47c5fb07497d" "YouTube" %}}, and is not covered under our [Creative Commons license](/terms/#cc).)
 
-[GCS: Episode 2 - Bike-Powered Cellphone Charger - Bernard Kiwia](https://vimeo.com/37753889) from [Young World Inventors](https://vimeo.com/user9317082) on [Vimeo](https://vimeo.com).
+{{% resource_link "9c4acdbb-5157-4ee9-aaf8-4d32b7f8bc1e" "GCS: Episode 2 - Bike-Powered Cellphone Charger - Bernard Kiwia" %}} from {{% resource_link "8d802fc7-aa2e-4ea0-a394-1341a94e2346" "Young World Inventors" %}} on {{% resource_link "5db47cd3-c06b-4cce-b6c5-f49dc04c608b" "Vimeo" %}}.
 
-Bike-Powered Cellphone Charger. (This video is from [Vimeo](http://vimeo.com/), and is not covered under our [Creative Commons license](/terms/#cc).)
+Bike-Powered Cellphone Charger. (This video is from {{% resource_link "93c0c434-e7c6-4a54-a3ce-5713bb1ce94a" "Vimeo" %}}, and is not covered under our [Creative Commons license](/terms/#cc).)
 
-"[Bicycle Phone Charger](http://www.designother90.org/solution/bicycle-phone-charger/)." _Design with the Other 90%_, Smithsonian Cooper-Hewitt National Design Museum.
+"{{% resource_link "a5e05809-ba1e-4a25-a244-a1146e300835" "Bicycle Phone Charger" %}}." _Design with the Other 90%_, Smithsonian Cooper-Hewitt National Design Museum.
 
-[_Design Revolution_](http://www.imdb.com/title/tt1778794/). Dir. Sally Levi. Craze Digital, 2012. \[A documentary starring Bernard\]
+{{% resource_link "54509898-e6da-400c-8dc0-848f76268998" "_Design Revolution_" %}}. Dir. Sally Levi. Craze Digital, 2012. \[A documentary starring Bernard\]

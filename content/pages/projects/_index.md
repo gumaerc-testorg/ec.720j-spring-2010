@@ -222,4 +222,4 @@ Spiral Pine Needle Cookstove ({{% resource_link 4b70af48-056f-59c6-7f48-5cda9736
 
 Project Follow-up Survey ({{% resource_link fcb50f11-2938-287c-d63f-c6c1b9546a69 "PDF" %}})
 
-Many D-Lab projects continue through multiple years of testing and refinement. See the [D-Lab website](http://d-lab.mit.edu/) for the latest information on recent projects.[d-lab.mit.edu/](http://d-lab.mit.edu/)
+Many D-Lab projects continue through multiple years of testing and refinement. See the {{% resource_link "2c8404c2-7c27-4f06-afbe-85bfc31072bb" "D-Lab website" %}} for the latest information on recent projects.{{% resource_link "2c8404c2-7c27-4f06-afbe-85bfc31072bb" "d-lab.mit.edu/" %}}

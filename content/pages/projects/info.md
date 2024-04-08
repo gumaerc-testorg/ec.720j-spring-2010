@@ -26,11 +26,11 @@ Although the internet is a good source of information, it should not be your onl
 
 The following reference materials are among those suggested by the MIT Libraries:
 
-*   Darrow, Ken, and Mike Saxenian, eds. [_Appropriate Technology Sourcebook_](http://villageearth.org/appropriate-technology/appropriate-technology-sourcebook). Village Earth. ISBN: 9780917704185.
-*   [CIA World Factbook](https://www.cia.gov/library/publications/resources/the-world-factbook/)
-*   [Statistics](http://www.fao.org/corp/statistics/en/) from Food and Agricultural Organization of the United Nations (FOA)
+*   Darrow, Ken, and Mike Saxenian, eds. {{% resource_link "951ab5d7-2aca-49d5-ac71-66b110966d48" "_Appropriate Technology Sourcebook_" %}}. Village Earth. ISBN: 9780917704185.
+*   {{% resource_link "cda6c115-8e8d-4dab-8aae-7872d0e896b8" "CIA World Factbook" %}}
+*   {{% resource_link "87997d74-268d-4c61-a6b4-05c98e89a8a6" "Statistics" %}} from Food and Agricultural Organization of the United Nations (FOA)
 
-(_Note_: Here's the MIT Libraries' [full list](http://libguides.mit.edu/d-lab) of D-Lab research references, if you're at MIT or have access to an academic library. Most of these are available only with an institutional subscription.)
+(_Note_: Here's the MIT Libraries' {{% resource_link "8aa0b2f9-ce9a-4632-9140-7e67d8c3c763" "full list" %}} of D-Lab research references, if you're at MIT or have access to an academic library. Most of these are available only with an institutional subscription.)
 
 Most importantly, try to consult your community partners and those people who have helped to develop your challenge. These people will be familiar with the context, needs and users for whom you are designing.
 
