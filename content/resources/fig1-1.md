@@ -2,6 +2,7 @@
 content_type: resource
 description: Paul Polak speaking in class.
 file: /courses/ec-720j-d-lab-ii-design-spring-2010/d81b07b5e6b077ed897e23835890aefc_fig1.jpg
+file_size: 38435
 file_type: image/jpeg
 image_metadata:
   caption: Paul Polak speaking in class.

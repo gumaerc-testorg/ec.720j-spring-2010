@@ -2,6 +2,7 @@
 content_type: resource
 description: Shawn Frayne assisting students with their design projects.
 file: /courses/ec-720j-d-lab-ii-design-spring-2010/8165fc2cc62967a40ba66d4a953121c9_fig2.jpg
+file_size: 45304
 file_type: image/jpeg
 image_metadata:
   caption: Shawn Frayne assisting students with their design projects.
