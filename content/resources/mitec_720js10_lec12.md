@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to manufacturing.
 file: /courses/ec-720j-d-lab-ii-design-spring-2010/31bc1da7c60661b5848601aa2f9eba07_MITEC_720JS10_lec12.pdf
+file_size: 4008821
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
