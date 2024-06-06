@@ -69,7 +69,7 @@ These are biweekly design reviews where teams present their progress and show th
 
 Teams show their final prototypes during the D-Lab Spring Showcase, held at the MIT Museum on a Saturday near the end of the term. The Spring Showcase is an annual event where D-Lab classes share their work from the spring semester with the MIT and greater Boston community. Student teams give short presentations/pitches and hands-on demonstrations of their projects. This is an opportunity for students to get questions and feedback from a larger audience and see what other D-Lab classes have been doing. The event is open to the public.
 
-More about the Spring Showcase: {{% resource_link "4f93e098-24a7-48f2-b18e-83af8a42b76e" "_D-Lab Showcases Technologies That Students Developed to Impact Our World_" %}}
+More about the Spring Showcase: [_D-Lab Showcases Technologies That Students Developed to Impact Our World_](https://d-lab.mit.edu/news-blog/blog/d-lab-showcases-technologies-students-developed-impact-our-world)
 
 Textbooks
 ---------

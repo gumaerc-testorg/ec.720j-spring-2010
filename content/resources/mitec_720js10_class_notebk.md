@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains complete notes by Nathan Cooke.
 file: /courses/ec-720j-d-lab-ii-design-spring-2010/af6f962569b6b3a9c9d788b5a751a73c_MITEC_720JS10_class_notebk.pdf
+file_size: 5417686
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

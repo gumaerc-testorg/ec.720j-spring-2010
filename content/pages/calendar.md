@@ -361,7 +361,7 @@ Reading 6 (due Ses #15)
 
 HW 13: Refined problem definition & specs
 
-_NB: {{% resource_link "daba7634-fd7d-475c-932f-ffeb373cb0db" "IDEAS Competition" %}} proposals due_
+_NB: [IDEAS Competition](http://globalchallenge.mit.edu/) proposals due_
 
 
 {{< tdclose >}}
@@ -543,7 +543,7 @@ Green Engineering 2 (with guest speaker Ben Linder)
 HW 21: Embodied energy evaluation
 {{< tdclose >}}
 {{< tdopen >}}
-_NB: {{% resource_link "daba7634-fd7d-475c-932f-ffeb373cb0db" "IDEAS Competition" %}} final entries due_
+_NB: [IDEAS Competition](http://globalchallenge.mit.edu/) final entries due_
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding form for student evaluation
   of mentors.
 file: /courses/ec-720j-d-lab-ii-design-spring-2010/fd370d37efeb2d6631c3b7c451c6fdb5_MITEC_720JS10_mentor_eval.pdf
+file_size: 614118
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
