@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Suprio lecturing in D-Lab: Design class. Photo courtesy of Nathan Cooke.'
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/bd9507b9fecc2d12cf682cb15f8cafdc_fig3.jpg
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/bd9507b9fecc2d12cf682cb15f8cafdc_fig3.jpg
 file_size: 26702
 file_type: image/jpeg
 image_metadata:

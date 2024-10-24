@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to sheet metal corn sheller.
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/1fab1f92881a2a0aa9ee50b0154a1960_MITEC_720JS10_bldit_csm.pdf
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/1fab1f92881a2a0aa9ee50b0154a1960_MITEC_720JS10_bldit_csm.pdf
 file_size: 400484
 file_type: application/pdf
 learning_resource_types:

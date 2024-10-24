@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to charcoal press.
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/449159c23d3552f73d7d59c5808c7f55_MITEC_720JS10_bldit_chrc.pdf
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/449159c23d3552f73d7d59c5808c7f55_MITEC_720JS10_bldit_chrc.pdf
 file_size: 682854
 file_type: application/pdf
 learning_resource_types:
