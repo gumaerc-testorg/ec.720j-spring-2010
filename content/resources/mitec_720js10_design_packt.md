@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to complete design packet.
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/2c6149f5a276a531264f04657539f064_MITEC_720JS10_design_packt.pdf
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/2c6149f5a276a531264f04657539f064_MITEC_720JS10_design_packt.pdf
 file_size: 267691
 file_type: application/pdf
 learning_resource_types:
