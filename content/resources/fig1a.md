@@ -2,7 +2,7 @@
 content_type: resource
 description: Bernard Kiwia's bicycle-powered water pump. Photo courtesy of Bernard
   Kiwia.
-file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/0fe75ebe1aa6884a19a5486a1e9bc18d_fig1a.jpg
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/0fe75ebe1aa6884a19a5486a1e9bc18d_fig1a.jpg
 file_size: 40414
 file_type: image/jpeg
 image_metadata:

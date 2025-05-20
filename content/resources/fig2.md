@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Amy exploring new ideas with a team of students.
-file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/29dd1fb095d4066d7fa78f9f7c72710b_fig2.jpg
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/29dd1fb095d4066d7fa78f9f7c72710b_fig2.jpg
 file_size: 41403
 file_type: image/jpeg
 image_metadata:

@@ -47,11 +47,11 @@ Some of Bernard's work in Tanzania:
 
 {{< resource uuid="0981fa41-6483-c5f5-8f71-3a5a2fd5cc18" >}}
 
-Pedal-Powered Hacksaw. (This video is from [YouTube](http://youtube.com), and is not covered under our [Creative Commons license](/terms/#cc).)
+Pedal-Powered Hacksaw. (This video is from [YouTube](http://youtube.com/), and is not covered under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
 
-[GCS: Episode 2 - Bike-Powered Cellphone Charger - Bernard Kiwia](https://vimeo.com/37753889) from [Young World Inventors](https://vimeo.com/user9317082) on [Vimeo](https://vimeo.com).
+[GCS: Episode 2 - Bike-Powered Cellphone Charger - Bernard Kiwia](https://youtu.be/hgf70Vol4kw?si=kbQ-PH-l4zQxIQlE) from [Young World Inventors](https://vimeo.com/user9317082) on [Vimeo](https://vimeo.com/).
 
-Bike-Powered Cellphone Charger. (This video is from [Vimeo](http://vimeo.com/), and is not covered under our [Creative Commons license](/terms/#cc).)
+Bike-Powered Cellphone Charger. (This video is from [Vimeo](http://vimeo.com/), and is not covered under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
 
 "Bicycle Phone Charger." *Design with the Other 90%*, Smithsonian Cooper-Hewitt National Design Museum.
 
