@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding design mentor guidelines.
-file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/221d8fc6e1039db2c531f182586a9848_MITEC_720JS10_MentorGuide.pdf
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/221d8fc6e1039db2c531f182586a9848_MITEC_720JS10_MentorGuide.pdf
 file_size: 764190
 file_type: application/pdf
 learning_resource_types: []
