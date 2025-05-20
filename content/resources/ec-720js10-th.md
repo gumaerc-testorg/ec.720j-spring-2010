@@ -6,7 +6,7 @@ description: The spiral pine needle stove is one of the projects  developed in t
   burn path of the fuel around the spiral, the stove uses the energy in the gases
   to get a clean, efficient burn. Courtesy of the students on the Spiral Pine Needle
   Stove team. Used with permission.
-file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/79b36c02c0b143384abeac170fb97bd2_ec-720js10-th.jpg
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/79b36c02c0b143384abeac170fb97bd2_ec-720js10-th.jpg
 file_size: 6630
 file_type: image/jpeg
 image_metadata:

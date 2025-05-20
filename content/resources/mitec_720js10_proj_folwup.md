@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to project follow-up survey.
-file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/fcb50f112938287cd63fc6c1b9546a69_MITEC_720JS10_proj_folwup.pdf
+file: /courses/ec-720j-d-lab-ii-design-spring-2010/fcb50f112938287cd63fc6c1b9546a69_MITEC_720JS10_proj_folwup.pdf
 file_size: 205325
 file_type: application/pdf
 learning_resource_types:
