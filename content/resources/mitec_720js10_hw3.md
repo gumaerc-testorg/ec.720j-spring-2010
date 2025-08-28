@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding '
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/af9dab7cdf149584a0e98be651ea268b_MITEC_720JS10_hw3.pdf
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/af9dab7cdf149584a0e98be651ea268b_MITEC_720JS10_hw3.pdf
 file_size: 772824
 file_type: application/pdf
 learning_resource_types:

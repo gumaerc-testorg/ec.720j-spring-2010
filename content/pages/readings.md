@@ -42,7 +42,7 @@ Hawthorne, Peter. "[Power to the People (PDF)](http://www.its.caltech.edu/~e105/
 
 McNeil, D. G., Jr. "[A $3 Water Purifier That Could Save Lives](http://www.nytimes.com/2006/10/10/science/10find.html)," *The New York Times*, October 10, 2006. \[Story and video about an invention called [LifeStraw](http://www.vestergaard-frandsen.com/lifestraw)®\]
 
-"[More Crop Per Drop](http://www.new-ag.info/en/focus/focusItem.php?a=1300)." *New Agriculturist*, September 2004.
+"More Crop Per Drop." *New Agriculturist*, September 2004.
 
 Donaldson, Krista. "[Why to be Wary of 'Design for Developing Countries](http://online.fliphtml5.com/uccc/lguq/#p=1)'." *Ambidextrous* 9 (2008): 35–7. 
 
