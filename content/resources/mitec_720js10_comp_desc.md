@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains compiled descriptions of design challenges.
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/56062fff203cfff9c2c9c62fecadd6a0_MITEC_720JS10_comp_desc.pdf
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/56062fff203cfff9c2c9c62fecadd6a0_MITEC_720JS10_comp_desc.pdf
 file_size: 824153
 file_type: application/pdf
 learning_resource_types:
