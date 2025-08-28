@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/ddb320f3bb94f4869615c9b5e404ac39_fig2.jpg
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/ddb320f3bb94f4869615c9b5e404ac39_fig2.jpg
 file_size: 44157
 file_type: image/jpeg
 image_metadata:

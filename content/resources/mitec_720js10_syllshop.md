@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding d-lab shop rules.
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/cf0cdf423957237f265fdaf6ec15ce02_MITEC_720JS10_SyllShop.pdf
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/cf0cdf423957237f265fdaf6ec15ce02_MITEC_720JS10_SyllShop.pdf
 file_size: 561290
 file_type: application/pdf
 learning_resource_types: []

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding creative capacity building design
   notebook.
-file: /courses/ec-720j-d-lab-ii-design-spring-2010/19f3cb3434454097c65fdfd90544de31_MITEC_720JS10_CcbDesign.pdf
+file: /ol-ocw-studio-app/courses/ec-720j-d-lab-ii-design-spring-2010/19f3cb3434454097c65fdfd90544de31_MITEC_720JS10_CcbDesign.pdf
 file_size: 3090878
 file_type: application/pdf
 learning_resource_types: []
