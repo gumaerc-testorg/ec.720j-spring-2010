@@ -15,7 +15,7 @@ D-Lab's Nathan Cooke took notes during most class sessions.  These notes are pr
 
 Selected lecture slides and other notes are provided in the Other Resources column.
 
-See also the [Flickr photo collection](http://www.flickr.com/photos/d-lab/sets/72157624747540037/) of various classes and activities.
+See also the {{% resource_link "9145f215-88a8-47b9-9e2c-9a04ae35d4a1" "Flickr photo collection" %}} of various classes and activities.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -236,7 +236,7 @@ Build-It modules
 {{< tdopen >}}
 
 
-_From_ [_D-Lab Resources_](http://d-lab.mit.edu/resources-publications) _collection:_
+_From_ {{% resource_link "61891366-c6b1-4036-96db-ffad9cb49d66" "_D-Lab Resources_" %}} _collection:_
 
 Cast Corn Sheller ({{% resource_link 4974d72f-6e55-f3b8-12da-88af46058e3a "PDF - 1.2MB" %}})
 
@@ -303,7 +303,7 @@ Manufacturing in the developing world
 
 Design for Manufacture
 
-Film: [_No Spare Parts_](http://www.bullfrogfilms.com/catalog/nsp.html). Director, David Springbett. Asterisk Productions, 1990. 22 min.
+Film: {{% resource_link "7de9ef5c-ea6b-4900-a45e-56e59885543b" "_No Spare Parts_" %}}. Director, David Springbett. Asterisk Productions, 1990. 22 min.
 
 
 {{< tdclose >}}
@@ -578,7 +578,7 @@ Presentations at MIT Museum (D-Lab Spring Showcase event)
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Photo collection of the Showcase event](http://www.flickr.com/photos/d-lab/sets/72157627895321412/)
+{{% resource_link "3cea9985-741a-428a-8f72-f023c1aa1511" "Photo collection of the Showcase event" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
