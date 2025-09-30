@@ -16,7 +16,7 @@ uid: 4a9bcf48-a0f6-29a2-d1f1-0ea58209f501
 « Back: {{% resource_link "10999552-d6e4-9e27-8659-6670d978b383" "Course Notes" %}}
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-This week has been inventors' week in D-Lab: Design. After Suprio's lecture on Monday, we hosted Bernard Kiwia for Wednesday's class. Bernard is an inventor from Tanzania, who currently leads technology innovation at [Global Cycle Solutions](http://globalcyclesolutions.com/) in his home country. Bernard started as a bicycle mechanic with 3 years of experience when he participated in the first edition of the [International Development Design Summit](https://idin.org/idds) at MIT over the summer of 2007. After connecting there with other craftsmen, technicians and hackers of sorts, he came back home to start *making things*, as he likes to describe his current activities. As part of his lecture, Bernard presented the different inventions he has come up over the years, which include a cell phone charger for bicycles, a wheel truing stand, several daily objects made out of bicycle spare parts (a can opener made from a bike brake, a picture frame made from a front sprocket wheel, chairs made from bike wheel rims, etc), a bicycle-powered water pump, a solar water heater, and a pedal-powered drill press to name a few.
+This week has been inventors' week in D-Lab: Design. After Suprio's lecture on Monday, we hosted Bernard Kiwia for Wednesday's class. Bernard is an inventor from Tanzania, who currently leads technology innovation at {{% resource_link "7aadab21-ddb9-4942-886a-07b31fc038dc" "Global Cycle Solutions" %}} in his home country. Bernard started as a bicycle mechanic with 3 years of experience when he participated in the first edition of the {{% resource_link "54ed41fa-2bd4-4d54-bc94-8a978cb46158" "International Development Design Summit" %}} at MIT over the summer of 2007. After connecting there with other craftsmen, technicians and hackers of sorts, he came back home to start *making things*, as he likes to describe his current activities. As part of his lecture, Bernard presented the different inventions he has come up over the years, which include a cell phone charger for bicycles, a wheel truing stand, several daily objects made out of bicycle spare parts (a can opener made from a bike brake, a picture frame made from a front sprocket wheel, chairs made from bike wheel rims, etc), a bicycle-powered water pump, a solar water heater, and a pedal-powered drill press to name a few.
 
 {{< resource uuid="0fe75ebe-1aa6-884a-19a5-486a1e9bc18d" >}}
 
@@ -47,12 +47,12 @@ Some of Bernard's work in Tanzania:
 
 {{< resource uuid="0981fa41-6483-c5f5-8f71-3a5a2fd5cc18" >}}
 
-Pedal-Powered Hacksaw. (This video is from [YouTube](http://youtube.com/), and is not covered under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
+Pedal-Powered Hacksaw. (This video is from {{% resource_link "b060698c-3b1b-4387-a65c-5b251ebd6843" "YouTube" %}}, and is not covered under our {{% resource_link "00a11969-f5b0-45f4-b243-f0198e142efc" "Creative Commons license" %}}.)
 
-[GCS: Episode 2 - Bike-Powered Cellphone Charger - Bernard Kiwia](https://youtu.be/hgf70Vol4kw?si=kbQ-PH-l4zQxIQlE) from [Young World Inventors](https://vimeo.com/user9317082) on [Vimeo](https://vimeo.com/).
+{{% resource_link "616c4f9d-b15c-4710-8408-96ad58352a3c" "GCS: Episode 2 - Bike-Powered Cellphone Charger - Bernard Kiwia" %}} from {{% resource_link "d7ff8f1e-32cb-42fc-bcbc-8d293ce5d2f3" "Young World Inventors" %}} on {{% resource_link "d2cb2d0b-eab4-4c1a-876f-e2985d85a89f" "Vimeo" %}}.
 
-Bike-Powered Cellphone Charger. (This video is from [Vimeo](http://vimeo.com/), and is not covered under our [Creative Commons license](https://ocw-studio.odl.mit.edu/terms/#cc).)
+Bike-Powered Cellphone Charger. (This video is from {{% resource_link "7681ae44-0781-46bc-ba49-807edcf11461" "Vimeo" %}}, and is not covered under our {{% resource_link "00a11969-f5b0-45f4-b243-f0198e142efc" "Creative Commons license" %}}.)
 
 "Bicycle Phone Charger." *Design with the Other 90%*, Smithsonian Cooper-Hewitt National Design Museum.
 
-[*Design Revolution*](http://www.imdb.com/title/tt1778794/). Dir. Sally Levi. Craze Digital, 2012. \[A documentary starring Bernard\]
+{{% resource_link "db78833c-6ef0-49da-8fc5-e4eebfac10f1" "*Design Revolution*" %}}. Dir. Sally Levi. Craze Digital, 2012. \[A documentary starring Bernard\]
